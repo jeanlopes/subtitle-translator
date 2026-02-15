@@ -1,0 +1,13 @@
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+
+transformers==4.46.3
+accelerate==1.12.0
+sentencepiece==0.2.1
+safetensors==0.7.0
+
+pysrt==1.1.2
+pandas==3.0.0
+openpyxl==3.1.5
+tqdm==4.67.3
